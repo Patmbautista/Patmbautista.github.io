@@ -1,11 +1,11 @@
 # Site settings
 author: Patricia Bautista
-title: 
+title: Data Science
 header-img: img/home-bg.png
 email: patmbautista13@gmail.com
 copyright_name: Patricia Bautista
 description: > # this means to ignore newlines until "baseurl:"
-  
+  What's up with that?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Patmbautista
